@@ -1,6 +1,6 @@
-//Implementação de uma stack em JavaScript
+//Implementação de uma stack em JavaScript com métodos de array
 class Stack{
-  constructor(arr){
+  constructor(){
     this.arr = []
   }
 
